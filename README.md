@@ -23,12 +23,11 @@
 ---
 
 ### 🧩 Featured Projects
-🚀 [**AI-Powered Quiz Generator**](https://github.com/Pavan-Kumar-Z/quiz-generator)  
-⚡ [**Vision Tracking Model**](https://github.com/Pavan-Kumar-Z/vision-tracking)  
-🔋 [**Energy Management Platform**](https://github.com/Pavan-Kumar-Z/energy-ai)  
+🚀 [**AI-Powered Quiz Generator**](https://github.com/Pavan-Kumar-Z/AI-Quiz-Generator)  
+⚡ [**Vision Tracking Model**](https://github.com/Pavan-Kumar-Z/Vision-Tracking-Model)  
+🔋 [**Energy Management Platform**](https://github.com/Pavan-Kumar-Z/Luminous-TechnoX-Hackathon-Submission-2024)  
 
 ---
 
 ### 📈 GitHub Stats
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavan-Kumar-Z&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Kumar-Z&layout=compact&theme=tokyonight)
