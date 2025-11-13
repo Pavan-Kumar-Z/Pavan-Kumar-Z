@@ -15,7 +15,7 @@
 ---
 
 ### 🧰 Tech Stack
-**Languages:** C++, Python, JavaScript, SQL  
+**Languages:** C++, Python, JavaScript, POSTGRESQL  
 **Development:** React.js, Next.js, Node.js, Express.js, Rest API, POSTMAN  
 **AI/ML:** PyTorch, Scikit-learn, LangChain, Hugging Face  
 **Tools:** Git, Grafana, Power BI, PostgreSQL  
