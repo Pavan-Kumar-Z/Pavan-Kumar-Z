@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Pavan Kumar
 
-<div align="center">
+<div>
 
 🎓 **Computer Science Student** | IIIT Raichur | B.Tech 2026  
 💡 **AI Enthusiast** | **Full-Stack Developer** | **Data Engineer**  
@@ -113,7 +113,7 @@ An AI-driven platform for energy forecasting, load balancing, and anomaly detect
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Kumar-Z&layout=compact&theme=tokyonight)
 
