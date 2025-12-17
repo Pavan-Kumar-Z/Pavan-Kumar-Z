@@ -77,8 +77,7 @@ I'm a **Computer Science student at IIIT Raichur** with a passion for building i
 
 ## 🚀 Featured Projects
 
-### 🗞️ CivicBriefs.ai - AI-Driven Current Affairs & UPSC Study Workflow Automation
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Pavan-Kumar-Z/CivicBriefs)
+### 🗞️ CivicBriefs.ai - AI-Driven Current Affairs & UPSC Study Workflow Automation [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Pavan-Kumar-Z/CivicBriefs)
 
 An intelligent news processing and study automation platform that transforms daily current affairs into personalized UPSC study material.
 
@@ -93,8 +92,7 @@ An intelligent news processing and study automation platform that transforms dai
 
 ---
 
-### ⚡ AI-Powered Energy Management Platform
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Pavan-Kumar-Z/Luminous-TechnoX-Hackathon-Submission-2024)
+### ⚡ AI-Powered Energy Management Platform [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Pavan-Kumar-Z/Luminous-TechnoX-Hackathon-Submission-2024)
 
 **🏆 2nd Place Winner - Luminous Techno X (40,000+ teams)**
 
@@ -116,8 +114,6 @@ Enterprise-grade platform for intelligent energy forecasting, anomaly detection,
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavan-Kumar-Z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pavan-Kumar-Z&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Kumar-Z&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
