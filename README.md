@@ -1,132 +1,136 @@
-# 👋 Hey, I'm Pavan Kumar
+<div align="center">
 
-<div>
+# Hi there 👋, I'm Pavan Kumar
 
-🎓 **Computer Science Student** | IIIT Raichur | B.Tech 2026  
-💡 **AI Enthusiast** | **Full-Stack Developer** | **Data Engineer**  
-🏆 **2nd Place Winner** – Luminous Techno X (40,000+ teams)
+### 🎓 CS Student @ IIIT Raichur | 🏆 Hackathon Winner | 🤖 AI Engineer
 
-[![GitHub](https://img.shields.io/badge/GitHub-Pavan--Kumar--Z-181717?style=flat&logo=github)](https://github.com/Pavan-Kumar-Z)
-[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=flat&logo=leetcode)](https://leetcode.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavan.kumar.primary@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pavan-Kumar-Z)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Pavan-Kumar-Z&color=blueviolet&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🛠️ Tech Stack
 
-🔭 Currently building an **AI-Powered Quiz Generation Platform** using Next.js and Gemini API  
-🧩 Exploring **Agentic AI**, **RAG Pipelines**, and **LLM Applications**  
-💻 Solved **300+ DSA problems** across LeetCode & GeeksforGeeks  
-⚡ Passionate about creating intelligent, production-grade systems that blend **AI + scalable engineering**
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-239120?style=for-the-badge&logo=codeforces&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=deeplearning.ai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-366194?style=for-the-badge&logo=langchain&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![LLM Fine-tuning](https://img.shields.io/badge/LLM_Fine--tuning-4285F4?style=for-the-badge&logo=googlecolab&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Statistical Modeling](https://img.shields.io/badge/Statistical_Modeling-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DSA](https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![System Design](https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 💫 About Me
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+I'm a **Computer Science student at IIIT Raichur** with a passion for building intelligent systems that solve real-world problems. With a strong foundation in **AI/ML, full-stack development, and data engineering**, I thrive at the intersection of cutting-edge technology and practical application.
 
-### Frontend & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+🏆 **Proud 2nd Place Winner** at **Luminous Techno X** (competing against **40,000+ teams**) where I led the development of an AI-powered energy management platform.
 
-### AI/ML & Data
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+💪 I've conquered **300+ DSA problems** on LeetCode and GeeksforGeeks, demonstrating my problem-solving prowess and algorithmic thinking.
 
-### Blockchain & Tools
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+🚀 Currently exploring the frontiers of **Agentic AI**, **RAG pipelines**, and **LLM applications**, while building production-grade systems that seamlessly blend AI with scalable engineering.
 
-**Additional Tools:** Scikit-learn, XGBoost, Hugging Face, NumPy, Pandas, Matplotlib, Grafana, REST API, Postman, Vercel
+🎯 My mission is to create intelligent, efficient, and impactful technology solutions that make a difference.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💡 [AI-Powered Quiz Generator](https://github.com/Pavan-Kumar-Z/AI-Quiz-Generator)
+### 🗞️ CivicBriefs.ai - AI-Driven Current Affairs & UPSC Study Workflow Automation
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Pavan-Kumar-Z/CivicBriefs)
 
-An intelligent quiz generation system that processes documents and generates contextual quizzes using AI.
+An intelligent news processing and study automation platform that transforms daily current affairs into personalized UPSC study material.
 
-**Tech Stack:** Flask · Python · PyMuPDF · tiktoken · python-docx · REST APIs
+**🔧 Tech Stack:** Python · FastAPI · SentenceTransformers · ChromaDB · Llama-cpp · React · Node.js · MongoDB
 
-**Key Features:**
-- 📄 Multi-format document parsing (PDF, DOCX)
-- 🧠 Intelligent token chunking for context preservation
-- 🎯 Planned integration with Phi-3-mini and FAISS for RAG-based generation
-- 🔄 RESTful API architecture
-
----
-
-### 👁️ [Vision Tracking Model](https://github.com/Pavan-Kumar-Z/Vision-Tracking-Model)
-
-Deep learning-based eye-tracking and fatigue detection system for driver alertness assessment.
-
-**Tech Stack:** PyTorch · OpenCV · Python · CNNs
-
-**Key Features:**
-- 👀 Real-time pupil coordinate prediction
-- 🚗 Driver fatigue detection using LPW dataset
-- 🧠 Custom CNN architecture (Conv2D, MaxPooling, Dense layers)
-- 📊 Accurate eye movement tracking for safety applications
+**✨ Key Features:**
+- 🤖 **Multi-Agent Architecture** - Orchestrated News Agent, Planner, and Orchestrator for automated content processing
+- 🔍 **Semantic Search** - ChromaDB-powered vector search for intelligent information retrieval
+- 📚 **Smart Summarization** - Local Llama models for context-aware content transformation
+- 📅 **Automated Scheduling** - Google Calendar API integration for optimized weekly study plans
+- 💡 **Personalized Capsules** - Tailored daily briefs based on user preferences and progress
 
 ---
 
-### 🗳️ [Voting App using Blockchain](https://github.com/Pavan-Kumar-Z/Voting_App_Blockchain)
+### ⚡ AI-Powered Energy Management Platform
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Pavan-Kumar-Z/Luminous-TechnoX-Hackathon-Submission-2024)
 
-A decentralized voting application ensuring transparent and tamper-proof elections using blockchain technology.
+**🏆 2nd Place Winner - Luminous Techno X (40,000+ teams)**
 
-**Tech Stack:** Flutter · Solidity · Firebase · MetaMask
+Enterprise-grade platform for intelligent energy forecasting, anomaly detection, and real-time monitoring that optimizes power consumption and reduces costs.
 
-**Key Features:**
-- ⛓️ Blockchain-based smart contract for vote integrity
-- 🔐 Secure voter authentication via Firebase
-- 💰 MetaMask wallet integration for Ethereum transactions
-- 📊 Real-time vote counting and results
-- 🛡️ Prevention of vote manipulation and duplication
+**🔧 Tech Stack:** React · Vite · PostgreSQL (Neon) · LSTM · Grafana · Vercel
 
----
-
-### ⚡ [Energy Management Platform](https://github.com/Pavan-Kumar-Z/Luminous-TechnoX-Hackathon-Submission-2024)
-
-An AI-driven platform for energy forecasting, load balancing, and anomaly detection. **2nd Place Winner** at Luminous Techno X.
-
-**Tech Stack:** React · Vite · PostgreSQL (Neon) · LSTM · Grafana · Vercel
-
-**Key Features:**
-- 📈 LSTM-based energy consumption prediction
-- ⚖️ Intelligent load balancing algorithms
-- 🚨 Real-time anomaly detection
-- 📊 Interactive Grafana dashboards for analytics
-- ☁️ Scalable cloud deployment on Vercel
+**✨ Key Features:**
+- 📈 **LSTM-Based Forecasting** - Advanced deep learning models for accurate energy consumption and tariff predictions
+- 🚨 **Anomaly Detection** - Real-time identification of unusual consumption patterns
+- ⚖️ **Intelligent Load Balancing** - AI-driven algorithms for optimal energy distribution
+- 📊 **Live Dashboards** - Interactive Grafana visualizations for comprehensive analytics
+- ☁️ **Scalable Architecture** - Cloud-native deployment with enterprise-grade reliability
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<div>
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Kumar-Z&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavan-Kumar-Z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pavan-Kumar-Z&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Kumar-Z&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pavan-Kumar-Z&theme=tokyo-night&hide_border=true)
 
 </div>
 
 ---
 
-## 📫 Let's Connect!
-
-Feel free to reach out for collaborations, opportunities, or just a chat about AI and technology!
-
 <div align="center">
 
-**Open to opportunities in AI/ML, Full-Stack Development, and Data Engineering**
+### 💼 Open to Opportunities in AI/ML, Full-Stack Development & Data Engineering
+
+**Let's build something amazing together! 🚀**
 
 </div>
